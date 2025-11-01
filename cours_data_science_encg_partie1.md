@@ -3,8 +3,8 @@
 # A. Larhlimi
 
 
+<img width="1205" height="1795" alt="image" src="https://github.com/user-attachments/assets/132badc7-1790-4a0e-bb16-fd069dd0ba11" />
 
-<img src="image1.jpg" style="height:264px;margin-right:232px"/>
 
 
 ## École Nationale de Commerce et de Gestion (ENCG) - 
